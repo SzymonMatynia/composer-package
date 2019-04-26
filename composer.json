@@ -1,0 +1,15 @@
+{
+    "name": "eterxoz/composer-pack",
+    "description": "this is eterxoz php library",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^1.24"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Szymon Matynia",
+            "email": "vrocode@vrocode.pl"
+        }
+    ]
+}
